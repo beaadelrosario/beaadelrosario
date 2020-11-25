@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Bea! 👋
-* 😄 Pronouns: she/her
+##(pronouns: she/her)
+
 * 👩🏻‍💻 I’m currently a Full Stack Web Development student at Lambda School
 * 🔮 I work most frequently in React, Node.js, and JavaScript
 * 🌱 I’m currently learning more about Python
