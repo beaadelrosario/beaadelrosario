@@ -11,6 +11,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Techs I've been using:
+Languages
+JavaScript
+Python
+
+Front End
+React
+Redux
+HTML/CSS/SASS/LESS
+
+Back End
+Node.js
+Express
+
+Databases
+PostgreSQL 
 -->
 
 # Hi, I'm Bea! 👋
